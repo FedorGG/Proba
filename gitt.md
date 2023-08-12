@@ -12,4 +12,9 @@
 git config --global user.name «Ваше имя английскими буквами»
 git config --global user.email ваша почта@example.com
 ## 4. Инцилизация репозитория
-Вводим команду git add
+Вводим команду git init
+## 5. lkjbhujkhb
+jhvgjh
+
+lhjgb
+
